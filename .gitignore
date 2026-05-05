@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+src/prediction_log.csv
+.DS_Store
+.vscode/
+.idea/
+*.log
